@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👩🏻‍💻 ¡Hola! Soy Yohanna Gelo
 
-<!--
-**YohannaGelo/YohannaGelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionada por el desarrollo web, la accesibilidad y la creación de experiencias útiles y bien cuidadas.  
+Tras una etapa en el ámbito educativo, decidí reinventarme y hoy soy desarrolladora full stack en formación, con muchas ganas de seguir creciendo 💪
 
-Here are some ideas to get you started:
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+🧠 Creativa, resolutiva y con iniciativa propia  
+🌐 Portfolio → [https://yohannagelo.github.io](https://yohannagelo.ruix.iesruizgijon.es)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías con las que trabajo
+
+- HTML, CSS, Sass, Bootstrap
+- JavaScript, TypeScript
+- Angular, Laravel, PHP, MySQL
+- WordPress, Webempresa
+- Git, GitHub, APIs REST
+- Cloudinary, Toastr, Cookies, Sesiones...
+
+---
+
+## 🚀 Algunos proyectos destacados
+
+| Proyecto | Descripción |
+|---------|-------------|
+| 🎓 [Ruiz Gijón Conecta](https://yohannagelo.ruix.iesruizgijon.es/rgconecta) | Proyecto final DAW 2025: plataforma para conectar alumnado con docentes del IES Ruiz Gijón. |
+| 🧩 [Hackathon Utrera 2025](https://yohannagelo.ruix.iesruizgijon.es/hackathonUtrera/) | Proyecto ganador en la edición 2025. |
+| 🧪 [GeloTech Angular + API PHP](https://yohannagelo.ruix.iesruizgijon.es/gelotech/) | App Angular conectada a una API desarrollada en PHP puro. |
+| 🏫 [Web CEIP Alfonso de Orleans](https://www.ceipalfonsodeorleans.es/) | Proyecto personal previo a mi formación, desarrollado con WordPress. |
+
+---
+
+## 📊 Mis estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YohannaGelo&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YohannaGelo&theme=radical" height="160"/>
+</div>
+
+---
+
+## 📬 Contacto
+
+- 🌐 [Portfolio completo](https://yohannagelo.ruix.iesruizgijon.es)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yohannagelo/)
+- 📧 Email: **yohannagelo@gmail.com**
+
+---
+
+> “Siempre intento aportar algo más, incluso cuando el ejercicio no lo exige.”
