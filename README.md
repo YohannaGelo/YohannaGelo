@@ -4,10 +4,10 @@
 
 # 👩🏻‍💻 ¡Hola! Soy Yohanna Gelo
 
-Apasionada por el desarrollo web, la accesibilidad y la creación de experiencias útiles y bien cuidadas.  
-Tras una etapa en el ámbito educativo, decidí reinventarme y hoy soy desarrolladora full stack en formación, con muchas ganas de seguir creciendo 💪
+Apasionada por el desarrollo web y la creación de experiencias útiles y bien cuidadas.  
+Tras una etapa autodidacta, decidí estudiar y reinventarme. Hoy soy desarrolladora full stack en formación, con muchas ganas de seguir creciendo 💪
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW)  
+🎓 Técnica Superior en Desarrollo de Aplicaciones Web (DAW)  
 🧠 Creativa, resolutiva y con iniciativa propia  
 🌐 Portfolio → [https://yohannagelo.github.io](https://yohannagelo.ruix.iesruizgijon.es)
 
@@ -53,4 +53,4 @@ Tras una etapa en el ámbito educativo, decidí reinventarme y hoy soy desarroll
 
 ---
 
-> “Siempre intento aportar algo más, incluso cuando el ejercicio no lo exige.”
+> “Siempre intento aportar algo más, incluso cuando no se exige.”
