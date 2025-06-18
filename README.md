@@ -30,7 +30,7 @@ Tras una etapa autodidacta, decidí estudiar y reinventarme. Hoy soy desarrollad
 |---------|-------------|
 | 🎓 [Ruiz Gijón Conecta](https://yohannagelo.ruix.iesruizgijon.es/rgconecta) | Proyecto final DAW 2025: plataforma para conectar alumnado con docentes del IES Ruiz Gijón. |
 | 🧩 [Hackathon Utrera 2025](https://yohannagelo.ruix.iesruizgijon.es/hackathonUtrera/) | Proyecto ganador en la edición 2025. |
-| 🧪 [GeloTech Angular + API PHP](https://yohannagelo.ruix.iesruizgijon.es/gelotech/) | App Angular conectada a una API desarrollada en PHP puro. |
+| 🧪 [GeloTech Angular + API PHP](https://yohannagelo.ruix.iesruizgijon.es/geloTech/) | App Angular conectada a una API desarrollada en PHP puro. |
 | 🏫 [Web CEIP Alfonso de Orleans](https://www.ceipalfonsodeorleans.es/) | Proyecto personal previo a mi formación, desarrollado con WordPress. |
 
 ---
