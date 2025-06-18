@@ -38,14 +38,10 @@ Tras una etapa en el ámbito educativo, decidí reinventarme y hoy soy desarroll
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YohannaGelo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohannaGelo&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YohannaGelo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohannaGelo&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<!-- Si quieres incluir el streak: -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YohannaGelo&theme=transparent" alt="Streak Stats" />
-</p>
 
 ---
 
